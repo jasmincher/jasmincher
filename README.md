@@ -8,7 +8,7 @@
 <h3 id="intro">
 
 Hi I'm Jas! I'm a front end web developer and I love bringing web designs to life. 
-<img src="pusheen.gif" width="60px" style="vertical-align:bottom">
+<img src="pusheen.gif" width="60px" style="vertical-align:top">
 </h3>
 </div>
 
