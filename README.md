@@ -1,15 +1,15 @@
 
 
 
-<a href="https://github.com/jasmincher">![banner](smoke.gif)</a>
+<a href="https://github.com/jasmincher" target="_blank">![banner](smoke.gif)</a>
 
 
 <div align="center"> 
-<h4 id="intro">
+<h3 id="intro">
 
 Hi I'm Jas! I'm a front end web developer and I love bringing web designs to life. 
-<img src="pusheen.gif" width="40px" style="vertical-align:bottom">
-</h4>
+<img src="pusheen.gif" width="55px" style="vertical-align:bottom">
+</h3>
 </div>
 
 
@@ -80,17 +80,16 @@ Hi I'm Jas! I'm a front end web developer and I love bringing web designs to lif
 
 
 <div align="center">
-<h5>More about me</h5>
+<h4>More about me</h4>
 
-<br>
 <span>
 <a href="https://www.linkedin.com/in/jasmincher/
-" style="display:inline"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-%234a25b0.svg?style=for-the-badge&for-the-badge&logo=linkedin&logoColor=white" height=25 width=90/> 
+" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-%234a25b0.svg?style=for-the-badge&for-the-badge&logo=linkedin&logoColor=white" height=25 width=90/> 
 </a>
 </span>
 
 <span>
-<a href="https://jascodes.com/">
+<a href="https://jascodes.com/" target="_blank">
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20-%234a25b0.svg?style=for-the-badge&for-the-badge&logo=safari&logoColor=white" height=25 width=90/> 
 </span>
 </a>
