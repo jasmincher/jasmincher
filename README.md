@@ -68,7 +68,7 @@ Hi I'm Jas! I'm a front end web developer and I love bringing web designs to lif
 <div align="center">
 
 
-<img height="160px" width="330px" src="https://github-readme-stats.vercel.app/api?username=jasmincher&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=000&icon_color=000&bg_color=fff&title_color=000"/>
+<img height="165px" width="320px" src="https://github-readme-stats.vercel.app/api?username=jasmincher&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=000&icon_color=000&bg_color=fff&title_color=000"/>
 
 
 
