@@ -5,11 +5,15 @@
 
 
 <div align="center"> 
-<h3 id="intro">
 
+<h3 id="intro">
 Hi I'm Jas! I'm a front end web developer and I love bringing web designs to life. 
-<img src="pusheen.gif" width="60px" style="vertical-align:top">
+<img src="pusheen.gif" valign="middle" width="60px">
 </h3>
+
+
+
+
 </div>
 
 
